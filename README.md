@@ -1,1 +1,1 @@
-This is an unfinished projecyt for a projectile motion simulator
+This is an unfinished project for a projectile motion simulator
